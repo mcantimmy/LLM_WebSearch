@@ -23,7 +23,7 @@ class LLMWebSearchPipeline:
             raise ValueError("Anthropic API key is required. Set it as an environment variable or pass it directly.")
         
         self.client = anthropic.Anthropic(api_key=self.api_key)
-        self.model = "claude-3-7-sonnet"  # Using Claude 3.7 Sonnet
+        self.model = "claude-3-7-sonnet-20250219"  # Using Claude 3.7 Sonnet
     
     def search_web(self, query: str, num_results: int = 5) -> List[Dict[str, str]]:
         """
