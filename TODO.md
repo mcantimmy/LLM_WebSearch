@@ -19,7 +19,7 @@
 
 ## Search Enhancement
 
-- [ ] Improve search query formulation
+- [X] Improve search query formulation
   - [ ] Implement query refinement based on initial results
   - [ ] Add capability to generate multiple search queries for a single user question
   - [ ] Create specialized query templates for different types of information needs
