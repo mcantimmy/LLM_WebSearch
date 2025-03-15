@@ -22,7 +22,7 @@
 - [X] Improve search query formulation
   - [x] Implement query refinement based on initial results
   - [x] Add capability to generate multiple search queries for a single user question
-  - [ ] Create specialized query templates for different types of information needs
+  - [x] Create specialized query templates for different types of information needs
 
 - [ ] Expand search sources
   - [ ] Add support for Google Search API
