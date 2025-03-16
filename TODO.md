@@ -24,7 +24,7 @@
   - [x] Add capability to generate multiple search queries for a single user question
   - [x] Create specialized query templates for different types of information needs
 
-- [ ] Expand search sources
+- [X] Expand search sources
   - [ ] Add support for Google Search API
   - [ ] Implement specialized search for academic papers (e.g., Semantic Scholar)
   - [ ] Add capability to search specific domains or websites
