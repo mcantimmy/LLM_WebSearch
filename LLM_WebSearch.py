@@ -258,7 +258,7 @@ if __name__ == "__main__":
     pipeline = LLMWebSearchPipeline()
     
     # Process a query
-    query = "What are the latest developments in quantum computing?"
+    query = input("Enter a query: ")
     answer = pipeline.process_query(query)
     
     print("\nFinal Answer:")
