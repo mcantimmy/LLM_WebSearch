@@ -128,7 +128,7 @@ Format your response as a JSON array with objects containing 'index' (0-based), 
         try:
             response = self.client.messages.create(
                 model=self.model,
-                max_tokens=1000,
+                max_tokens=8000,
                 temperature=0,
                 system="You are an expert search result evaluator that always responds in valid JSON format.",
                 messages=[
@@ -211,6 +211,7 @@ Please provide a comprehensive, accurate answer based primarily on the context p
                 model=self.model,
                 max_tokens=8000,
                 temperature=0.9,
+                #p=0,
                 system="You are a helpful assistant that provides accurate, comprehensive answers based on the context provided.",
                 messages=[
                     {"role": "user", "content": prompt}
