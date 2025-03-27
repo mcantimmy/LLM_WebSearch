@@ -42,7 +42,7 @@
   - [ ] Develop explanation of reasoning and source selection
 
 - [ ] Add customization options
-  - [ ] Allow users to specify preferred sources
+  - [x] Allow users to specify preferred sources
   - [ ] Implement adjustable depth vs. breadth search parameters
   - [ ] Create user-defined trust thresholds for sources
 
