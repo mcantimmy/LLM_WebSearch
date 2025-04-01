@@ -2,10 +2,10 @@
 
 ## Core Agentic Improvements
 
-- [ ] Implement a decision-making framework for autonomous operation
-  - [ ] Add capability to decide when web search is necessary
-  - [ ] Create logic for determining follow-up questions
-  - [ ] Develop self-critique and refinement mechanisms
+- [x] Implement a decision-making framework for autonomous operation
+  - [x] Add capability to decide when web search is necessary
+  - [x] Create logic for determining follow-up questions
+  - [x] Develop self-critique and refinement mechanisms
 
 - [ ] Add memory and state management
   - [ ] Implement short-term conversation memory
