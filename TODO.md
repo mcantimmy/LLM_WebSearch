@@ -12,7 +12,7 @@
   - [ ] Create persistent storage for learned information
   - [ ] Develop context-aware retrieval mechanisms
 
-- [ ] Create a planning module
+- [x] Create a planning module
   - [ ] Implement task decomposition for complex queries
   - [ ] Add capability to create and execute multi-step research plans
   - [ ] Develop backtracking mechanisms for failed search paths
