@@ -13,7 +13,7 @@
   - [ ] Develop context-aware retrieval mechanisms
 
 - [x] Create a planning module
-  - [ ] Implement task decomposition for complex queries
+  - [x] Implement task decomposition for complex queries
   - [x] Add capability to create and execute multi-step research plans
   - [ ] Develop backtracking mechanisms for failed search paths
 
