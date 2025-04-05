@@ -15,7 +15,7 @@
 - [x] Create a planning module
   - [x] Implement task decomposition for complex queries
   - [x] Add capability to create and execute multi-step research plans
-  - [ ] Develop backtracking mechanisms for failed search paths
+  - [x] Develop backtracking mechanisms for failed search paths
 
 ## Search Enhancement
 
