@@ -61,8 +61,7 @@ Output your decision as a JSON object with the following structure:
                 system="You analyze queries to determine if they require external information from web search. Always respond in valid JSON format.",
                 messages=[
                     {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_object"}
+                ]
             )
             
             # Extract and parse JSON from response
@@ -119,8 +118,7 @@ Output your suggestions as a JSON array with the following structure:
                 system="You are an expert at identifying valuable follow-up questions that could enhance understanding or provide additional context. Always respond in valid JSON format.",
                 messages=[
                     {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_object"}
+                ]
             )
             
             # Extract and parse JSON from response
@@ -186,8 +184,7 @@ Output your evaluation as a JSON object with the following structure:
                 system="You are an expert at evaluating and improving answers based on search context. Always respond in valid JSON format.",
                 messages=[
                     {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_object"}
+                ]
             )
             
             # Extract and parse JSON from response
@@ -318,8 +315,7 @@ Format your response as a JSON array with objects containing 'index' (0-based), 
                 system="You are an expert search result evaluator that always responds in valid JSON format.",
                 messages=[
                     {"role": "user", "content": prompt}
-                ],
-                response_format={"type": "json_object"}
+                ]
             )
             
             # Extract and parse JSON from response
