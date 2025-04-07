@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 import json
 import time
@@ -66,6 +67,11 @@ Output your decision as a JSON object with the following structure:
             
             # Extract and parse JSON from response
             content = response.content[0].text
+            match = re.search(r'(\{.*\})', content, re.DOTALL)
+            if match:
+                content = match.group(1)
+            else:
+                print("No JSON found in the response")
             decision = json.loads(content)
             
             return decision["search_needed"], decision["reasoning"]
