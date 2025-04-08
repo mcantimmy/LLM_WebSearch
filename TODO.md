@@ -70,8 +70,8 @@
   - [ ] Create a plugin system for adding new capabilities
   - [ ] Implement a standardized tool interface
 
-- [ ] Add evaluation framework
-  - [ ] Create benchmarks for search quality
+- [x] Add evaluation framework
+  - [x] Create benchmarks for search quality
   - [ ] Implement automated testing for different query types
   - [ ] Add metrics collection for performance analysis
 
