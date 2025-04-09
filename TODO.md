@@ -72,8 +72,8 @@
 
 - [x] Add evaluation framework
   - [x] Create benchmarks for search quality
-  - [ ] Implement automated testing for different query types
-  - [ ] Add metrics collection for performance analysis
+  - [x] Implement automated testing for different query types
+  - [x] Add metrics collection for performance analysis
 
 - [ ] Enhance security
   - [ ] Implement input sanitization
