@@ -27,7 +27,7 @@
 - [X] Expand search sources
   - [ ] Add support for Google Search API
   - [ ] Implement specialized search for academic papers (e.g., Semantic Scholar)
-  - [ ] Add capability to search specific domains or websites
+  - [x] Add capability to search specific domains or websites
 
 - [X] Enhance result processing
   - [ ] Implement cross-validation of information across multiple sources
@@ -57,6 +57,8 @@
   - [x] Implement graceful degradation when search services are unavailable
   - [x] Add comprehensive logging
   - [x] Create self-healing mechanisms for common failures
+
+
 
 - [ ] Improve content extraction
   - [ ] Enhance webpage parsing for different content types
