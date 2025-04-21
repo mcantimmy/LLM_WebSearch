@@ -25,7 +25,6 @@
   - [x] Create specialized query templates for different types of information needs
 
 - [X] Expand search sources
-  - [ ] Add support for Google Search API
   - [ ] Implement specialized search for academic papers (e.g., Semantic Scholar)
   - [x] Add capability to search specific domains or websites
 
