@@ -1,6 +1,8 @@
 # TODO: Enhancing LLM_WebSearch with Agentic Capabilities
 
 ## Core Agentic Improvements
+- [x] Add MCP Protocol
+  - [ ] Add MCP tooluse relevant to enhancing websearch
 
 - [x] Implement a decision-making framework for autonomous operation
   - [x] Add capability to decide when web search is necessary
