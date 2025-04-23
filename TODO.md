@@ -2,7 +2,8 @@
 
 ## Core Agentic Improvements
 - [x] Add MCP Protocol
-  - [ ] Add MCP tooluse relevant to enhancing websearch
+  - [ ] Add MCP tools relevant to enhancing websearch
+  - [ ] Implement into WebSearch
 
 - [x] Implement a decision-making framework for autonomous operation
   - [x] Add capability to decide when web search is necessary
