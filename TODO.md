@@ -4,7 +4,7 @@
 - [x] Add MCP Protocol
   - [ ] Add MCP tools relevant to enhancing websearch
   - [ ] Implement into WebSearch
-
+  
 - [x] Implement a decision-making framework for autonomous operation
   - [x] Add capability to decide when web search is necessary
   - [x] Create logic for determining follow-up questions
@@ -70,7 +70,7 @@
 ## Architecture Improvements
 
 - [ ] Modularize the architecture
-  - [ ] Separate the agent core from tool implementations
+  - [x] Separate the agent core from tool implementations
   - [ ] Create a plugin system for adding new capabilities
   - [ ] Implement a standardized tool interface
 
