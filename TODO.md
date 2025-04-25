@@ -71,7 +71,7 @@
 
 - [ ] Modularize the architecture
   - [x] Separate the agent core from tool implementations
-  - [ ] Create a plugin system for adding new capabilities
+  - [x] Create a plugin system for adding new capabilities
   - [ ] Implement a standardized tool interface
 
 - [x] Add evaluation framework
