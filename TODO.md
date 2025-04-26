@@ -82,4 +82,4 @@
 - [ ] Enhance security
   - [ ] Implement input sanitization
   - [ ] Add content filtering options
-  - [ ] Create access controls for different capabilities
+  - [x] Create access controls for different capabilities
